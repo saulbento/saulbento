@@ -2,12 +2,12 @@
 #### My name is Saul Bento, I am from Brazil, but I am around the world!
 #### At the moment: Germany.
 
-### About me
+### About me 😎
 I am always a work in progress, always learning something new, trying to get better.
 Right now I am trying to do something that I always wanted, to become a developer, 
 in order to do that I am studying and building projects using the following technologies:
 
-- 🌱 I’m currently learning
+-  💻 Technologies:
 * NodeJS
 * ReactJS
 * ReactNative

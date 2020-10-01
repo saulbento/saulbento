@@ -18,8 +18,6 @@ in order to do that I am studying and building projects using the following tech
 
 🤔 I’m looking for help with going forward as a developer. If your soul craves for helping, feel free to contact me!
 
-Feel free to take a look at my repositories. If you want to contact me:
-
 📫 How to reach me:
 - ✉ saulbento@gmail.com
 - Drop me a line at: [LinkedIn](https://www.linkedin.com/in/saulbento/)

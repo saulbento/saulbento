@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-## Welcome to my GitHub! 
 #### My name is Saul Bento, I am from Brazil, but I am around the world!
 #### At the moment: Germany.
 
